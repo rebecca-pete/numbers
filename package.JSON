@@ -1,0 +1,20 @@
+{
+  "name": "numbers",
+  "version": "1.0.0",
+  "description": "301 Final Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrisRichardson87/Numbers.git"
+  },
+  "author": "Harris, Jon and Rebecca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarrisRichardson87/Numbers/issues"
+  },
+  "homepage": "https://github.com/HarrisRichardson87/Numbers#readme"
+}
